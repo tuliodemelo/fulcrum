@@ -1,0 +1,1138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9bca1371-3782-4dd3-a7bb-d477c1d051e1" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/docker/mysql/data/percona/fulcrum/FTS_0000000000000348_000000000000072c_INDEX_1.ibd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/mysql/data/percona/fulcrum/FTS_0000000000000348_000000000000072c_INDEX_2.ibd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/mysql/data/percona/fulcrum/FTS_0000000000000348_000000000000072c_INDEX_3.ibd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/mysql/data/percona/fulcrum/FTS_0000000000000348_000000000000072c_INDEX_4.ibd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/mysql/data/percona/fulcrum/FTS_0000000000000348_000000000000072c_INDEX_5.ibd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/mysql/data/percona/fulcrum/FTS_0000000000000348_000000000000072c_INDEX_6.ibd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/mysql/data/percona/fulcrum/FTS_0000000000000348_BEING_DELETED.ibd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/mysql/data/percona/fulcrum/FTS_0000000000000348_BEING_DELETED_CACHE.ibd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/mysql/data/percona/fulcrum/FTS_0000000000000348_CONFIG.ibd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/mysql/data/percona/fulcrum/FTS_0000000000000348_DELETED.ibd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/mysql/data/percona/fulcrum/FTS_0000000000000348_DELETED_CACHE.ibd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/mysql/data/percona/fulcrum/FTS_0000000000000354_0000000000000741_INDEX_1.ibd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/mysql/data/percona/fulcrum/FTS_0000000000000354_0000000000000741_INDEX_2.ibd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/mysql/data/percona/fulcrum/FTS_0000000000000354_0000000000000741_INDEX_3.ibd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/mysql/data/percona/fulcrum/FTS_0000000000000354_0000000000000741_INDEX_4.ibd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/mysql/data/percona/fulcrum/FTS_0000000000000354_0000000000000741_INDEX_5.ibd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/mysql/data/percona/fulcrum/FTS_0000000000000354_0000000000000741_INDEX_6.ibd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/mysql/data/percona/fulcrum/FTS_0000000000000354_BEING_DELETED.ibd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/mysql/data/percona/fulcrum/FTS_0000000000000354_BEING_DELETED_CACHE.ibd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/mysql/data/percona/fulcrum/FTS_0000000000000354_CONFIG.ibd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/mysql/data/percona/fulcrum/FTS_0000000000000354_DELETED.ibd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/mysql/data/percona/fulcrum/FTS_0000000000000354_DELETED_CACHE.ibd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/mysql/data/percona/fulcrum/FTS_000000000000036a_0000000000000763_INDEX_1.ibd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/mysql/data/percona/fulcrum/FTS_000000000000036a_0000000000000763_INDEX_2.ibd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/mysql/data/percona/fulcrum/FTS_000000000000036a_0000000000000763_INDEX_3.ibd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/mysql/data/percona/fulcrum/FTS_000000000000036a_0000000000000763_INDEX_4.ibd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/mysql/data/percona/fulcrum/FTS_000000000000036a_0000000000000763_INDEX_5.ibd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/mysql/data/percona/fulcrum/FTS_000000000000036a_0000000000000763_INDEX_6.ibd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/mysql/data/percona/fulcrum/FTS_000000000000036a_BEING_DELETED.ibd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/mysql/data/percona/fulcrum/FTS_000000000000036a_BEING_DELETED_CACHE.ibd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/mysql/data/percona/fulcrum/FTS_000000000000036a_CONFIG.ibd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/mysql/data/percona/fulcrum/FTS_000000000000036a_DELETED.ibd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/mysql/data/percona/fulcrum/FTS_000000000000036a_DELETED_CACHE.ibd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/mysql/data/percona/fulcrum/admin_system_messages.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/docker/mysql/data/percona/fulcrum/admin_system_messages.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/mysql/data/percona/fulcrum/admin_user.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/docker/mysql/data/percona/fulcrum/admin_user.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/mysql/data/percona/fulcrum/admin_user_session.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/docker/mysql/data/percona/fulcrum/admin_user_session.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/mysql/data/percona/fulcrum/banners.frm" beforeDir="false" afterPath="$PROJECT_DIR$/docker/mysql/data/percona/fulcrum/banners.frm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/mysql/data/percona/fulcrum/banners.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/docker/mysql/data/percona/fulcrum/banners.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/mysql/data/percona/fulcrum/captcha_log.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/docker/mysql/data/percona/fulcrum/captcha_log.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/mysql/data/percona/fulcrum/catalog_category_product_index_store1.frm" beforeDir="false" afterPath="$PROJECT_DIR$/docker/mysql/data/percona/fulcrum/catalog_category_product_index_store1.frm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/mysql/data/percona/fulcrum/catalog_category_product_index_store1.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/docker/mysql/data/percona/fulcrum/catalog_category_product_index_store1.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/mysql/data/percona/fulcrum/catalog_category_product_index_store1_replica.frm" beforeDir="false" afterPath="$PROJECT_DIR$/docker/mysql/data/percona/fulcrum/catalog_category_product_index_store1_replica.frm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/mysql/data/percona/fulcrum/catalog_category_product_index_store1_replica.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/docker/mysql/data/percona/fulcrum/catalog_category_product_index_store1_replica.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/mysql/data/percona/fulcrum/catalog_product_index_eav.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/docker/mysql/data/percona/fulcrum/catalog_product_index_eav.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/mysql/data/percona/fulcrum/catalog_product_index_eav_decimal.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/docker/mysql/data/percona/fulcrum/catalog_product_index_eav_decimal.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/mysql/data/percona/fulcrum/catalog_product_index_eav_decimal_replica.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/docker/mysql/data/percona/fulcrum/catalog_product_index_eav_decimal_replica.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/mysql/data/percona/fulcrum/catalog_product_index_eav_replica.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/docker/mysql/data/percona/fulcrum/catalog_product_index_eav_replica.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/mysql/data/percona/fulcrum/catalog_product_index_price.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/docker/mysql/data/percona/fulcrum/catalog_product_index_price.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/mysql/data/percona/fulcrum/catalog_product_index_price_replica.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/docker/mysql/data/percona/fulcrum/catalog_product_index_price_replica.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/mysql/data/percona/fulcrum/catalog_product_index_website.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/docker/mysql/data/percona/fulcrum/catalog_product_index_website.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/mysql/data/percona/fulcrum/cataloginventory_stock_status.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/docker/mysql/data/percona/fulcrum/cataloginventory_stock_status.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/mysql/data/percona/fulcrum/cataloginventory_stock_status_replica.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/docker/mysql/data/percona/fulcrum/cataloginventory_stock_status_replica.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/mysql/data/percona/fulcrum/catalogrule_group_website.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/docker/mysql/data/percona/fulcrum/catalogrule_group_website.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/mysql/data/percona/fulcrum/catalogrule_product.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/docker/mysql/data/percona/fulcrum/catalogrule_product.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/mysql/data/percona/fulcrum/catalogrule_product_price.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/docker/mysql/data/percona/fulcrum/catalogrule_product_price.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/mysql/data/percona/fulcrum/catalogsearch_fulltext_scope1.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/docker/mysql/data/percona/fulcrum/catalogsearch_fulltext_scope1.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/mysql/data/percona/fulcrum/core_config_data.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/docker/mysql/data/percona/fulcrum/core_config_data.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/mysql/data/percona/fulcrum/customer_grid_flat.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/docker/mysql/data/percona/fulcrum/customer_grid_flat.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/mysql/data/percona/fulcrum/design_config_grid_flat.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/docker/mysql/data/percona/fulcrum/design_config_grid_flat.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/mysql/data/percona/fulcrum/indexer_state.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/docker/mysql/data/percona/fulcrum/indexer_state.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/mysql/data/percona/fulcrum/setup_module.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/docker/mysql/data/percona/fulcrum/setup_module.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/mysql/data/percona/fulcrum/theme.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/docker/mysql/data/percona/fulcrum/theme.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/mysql/data/percona/ib_buffer_pool" beforeDir="false" afterPath="$PROJECT_DIR$/docker/mysql/data/percona/ib_buffer_pool" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/mysql/data/percona/ib_logfile0" beforeDir="false" afterPath="$PROJECT_DIR$/docker/mysql/data/percona/ib_logfile0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/mysql/data/percona/ibdata1" beforeDir="false" afterPath="$PROJECT_DIR$/docker/mysql/data/percona/ibdata1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/mysql/data/percona/mysql/innodb_index_stats.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/docker/mysql/data/percona/mysql/innodb_index_stats.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/mysql/data/percona/mysql/innodb_table_stats.ibd" beforeDir="false" afterPath="$PROJECT_DIR$/docker/mysql/data/percona/mysql/innodb_table_stats.ibd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docker/phpfpm/conf/xdebug.ini" beforeDir="false" afterPath="$PROJECT_DIR$/docker/phpfpm/conf/xdebug.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/code/Fulcrum/Banner/Api/BannersRepositoryInterface.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/code/Fulcrum/Banner/Api/BannersRepositoryInterface.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/code/Fulcrum/Banner/Api/Data/BannersInterface.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/code/Fulcrum/Banner/Api/Data/BannersInterface.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/code/Fulcrum/Banner/Api/Data/BannersSearchResultsInterface.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/code/Fulcrum/Banner/Api/Data/BannersSearchResultsInterface.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/code/Fulcrum/Banner/Block/Adminhtml/Banners/Edit/Buttons/Back.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/code/Fulcrum/Banner/Block/Adminhtml/Banners/Edit/Buttons/Back.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/code/Fulcrum/Banner/Block/Adminhtml/Banners/Edit/Buttons/Generic.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/code/Fulcrum/Banner/Block/Adminhtml/Banners/Edit/Buttons/Generic.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/code/Fulcrum/Banner/Block/Adminhtml/Banners/Edit/Buttons/Save.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/code/Fulcrum/Banner/Block/Adminhtml/Banners/Edit/Buttons/Save.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/code/Fulcrum/Banner/Block/Adminhtml/Banners/Index.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/code/Fulcrum/Banner/Block/Adminhtml/Banners/Index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/code/Fulcrum/Banner/Block/Adminhtml/System/Config/Editor.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/code/Fulcrum/Banner/Block/Adminhtml/System/Config/Editor.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/code/Fulcrum/Banner/Block/SingleBanner.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/code/Fulcrum/Banner/Block/SingleBanner.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/code/Fulcrum/Banner/Controller/Adminhtml/Banner/Create.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/code/Fulcrum/Banner/Controller/Adminhtml/Banner/Create.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/code/Fulcrum/Banner/Controller/Adminhtml/Banner/Delete.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/code/Fulcrum/Banner/Controller/Adminhtml/Banner/Delete.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/code/Fulcrum/Banner/Controller/Adminhtml/Banner/Edit.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/code/Fulcrum/Banner/Controller/Adminhtml/Banner/Edit.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/code/Fulcrum/Banner/Controller/Adminhtml/Banner/Index.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/code/Fulcrum/Banner/Controller/Adminhtml/Banner/Index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/code/Fulcrum/Banner/Controller/Adminhtml/Banner/Save.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/code/Fulcrum/Banner/Controller/Adminhtml/Banner/Save.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/code/Fulcrum/Banner/Model/Banners.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/code/Fulcrum/Banner/Model/Banners.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/code/Fulcrum/Banner/Model/BannersRepository.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/code/Fulcrum/Banner/Model/BannersRepository.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/code/Fulcrum/Banner/Model/DataProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/code/Fulcrum/Banner/Model/DataProvider.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/code/Fulcrum/Banner/Model/ResourceModel/Banners.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/code/Fulcrum/Banner/Model/ResourceModel/Banners.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/code/Fulcrum/Banner/Model/ResourceModel/Banners/Collection.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/code/Fulcrum/Banner/Model/ResourceModel/Banners/Collection.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/code/Fulcrum/Banner/Model/Source/IsActive.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/code/Fulcrum/Banner/Model/Source/IsActive.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/code/Fulcrum/Banner/Setup/InstallSchema.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/code/Fulcrum/Banner/Setup/InstallSchema.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/code/Fulcrum/Banner/Ui/Component/Listing/Column/AbstractColumn.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/code/Fulcrum/Banner/Ui/Component/Listing/Column/AbstractColumn.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/code/Fulcrum/Banner/Ui/Component/Listing/Column/Actions.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/code/Fulcrum/Banner/Ui/Component/Listing/Column/Actions.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/code/Fulcrum/Banner/etc/adminhtml/di.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/code/Fulcrum/Banner/etc/adminhtml/di.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/code/Fulcrum/Banner/etc/adminhtml/menu.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/code/Fulcrum/Banner/etc/adminhtml/menu.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/code/Fulcrum/Banner/etc/adminhtml/routes.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/code/Fulcrum/Banner/etc/adminhtml/routes.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/code/Fulcrum/Banner/etc/adminhtml/system.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/code/Fulcrum/Banner/etc/adminhtml/system.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/code/Fulcrum/Banner/etc/config.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/code/Fulcrum/Banner/etc/config.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/code/Fulcrum/Banner/etc/di.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/code/Fulcrum/Banner/etc/di.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/code/Fulcrum/Banner/etc/module.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/code/Fulcrum/Banner/etc/module.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/code/Fulcrum/Banner/registration.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/code/Fulcrum/Banner/registration.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/code/Fulcrum/Banner/view/adminhtml/layout/banners_banner_create.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/code/Fulcrum/Banner/view/adminhtml/layout/banners_banner_create.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/code/Fulcrum/Banner/view/adminhtml/layout/banners_banner_edit.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/code/Fulcrum/Banner/view/adminhtml/layout/banners_banner_edit.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/code/Fulcrum/Banner/view/adminhtml/layout/banners_banner_index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/code/Fulcrum/Banner/view/adminhtml/layout/banners_banner_index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/code/Fulcrum/Banner/view/adminhtml/ui_component/banner_form.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/code/Fulcrum/Banner/view/adminhtml/ui_component/banner_form.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/code/Fulcrum/Banner/view/adminhtml/ui_component/banner_listing.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/code/Fulcrum/Banner/view/adminhtml/ui_component/banner_listing.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/code/Fulcrum/Banner/view/frontend/layout/cms_index_index.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/code/Fulcrum/Banner/view/frontend/layout/cms_index_index.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/code/Fulcrum/Banner/view/frontend/templates/singlebanner.phtml" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/code/Fulcrum/Banner/view/frontend/templates/singlebanner.phtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/code/Fulcrum/Banner/view/frontend/web/css/singlebanner.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/code/Fulcrum/Banner/view/frontend/web/css/singlebanner.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/code/Fulcrum/Banner/view/frontend/web/images/magento2_banner.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/code/Fulcrum/Banner/view/frontend/web/images/magento2_banner.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/code/Fulcrum/Core/Helper/Setup.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/code/Fulcrum/Core/Helper/Setup.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/code/Fulcrum/Core/etc/module.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/code/Fulcrum/Core/etc/module.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/code/Fulcrum/Core/registration.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/code/Fulcrum/Core/registration.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Composer/Console/ApplicationFactory.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Klarna/Core/Api/VersionInterfaceFactory.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Klarna/Core/Helper/KlarnaConfig/Interceptor.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Klarna/Core/Model/Checkout/Orderline/Collector/Interceptor.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/MSP/TwoFactorAuth/Model/UserConfigFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/MSP/TwoFactorAuth/Model/UserConfigFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Authorization/Model/RoleFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Authorization/Model/RoleFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Backend/App/Request/PathInfoProcessor/Proxy.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Backend/App/Request/PathInfoProcessor/Proxy.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Backend/Helper/Data/Proxy.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Backend/Helper/Data/Proxy.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Backend/Model/Auth/Session/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Backend/Model/Auth/Session/Interceptor.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Backend/Model/Auth/Session/Proxy.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Backend/Model/Auth/Session/Proxy.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Backend/Model/Locale/Resolver/Proxy.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Backend/Model/Locale/Resolver/Proxy.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Backend/Model/Menu/Builder/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Backend/Model/Menu/Builder/Interceptor.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Backend/Model/MenuFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Backend/Model/MenuFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Backend/Model/Session/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Backend/Model/Session/Interceptor.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Backend/Model/UrlFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Backend/Model/UrlFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Backend/Model/UrlInterface/Proxy.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Backend/Model/UrlInterface/Proxy.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Catalog/Api/Data/ProductCustomOptionInterfaceFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Catalog/Api/Data/ProductCustomOptionInterfaceFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Catalog/Api/Data/ProductLinkAttributeInterfaceFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Catalog/Api/Data/ProductLinkAttributeInterfaceFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Catalog/Api/Data/ProductLinkInterfaceFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Catalog/Api/Data/ProductLinkInterfaceFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Catalog/Api/Data/ProductLinkTypeInterfaceFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Catalog/Api/Data/ProductLinkTypeInterfaceFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Catalog/Api/Data/ProductSearchResultsInterfaceFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Catalog/Api/Data/ProductSearchResultsInterfaceFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Catalog/Api/ProductRepositoryInterface/Proxy.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Catalog/Api/ProductRepositoryInterface/Proxy.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Catalog/Controller/Adminhtml/Product/Initialization/Helper/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Catalog/Controller/Adminhtml/Product/Initialization/Helper/Interceptor.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Catalog/Controller/Adminhtml/Product/Initialization/StockDataFilter/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Catalog/Controller/Adminhtml/Product/Initialization/StockDataFilter/Interceptor.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Catalog/Model/Attribute/Config/Data/Proxy.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Catalog/Model/Attribute/Config/Data/Proxy.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Catalog/Model/CategoryFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Catalog/Model/CategoryFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Catalog/Model/Indexer/Category/Product/Action/Full/Interceptor.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Catalog/Model/Indexer/Category/Product/Action/FullFactory.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Catalog/Model/Product/Attribute/Backend/Price/Interceptor.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Catalog/Model/Product/Attribute/Repository/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Catalog/Model/Product/Attribute/Repository/Interceptor.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Catalog/Model/Product/ConditionFactory.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Catalog/Model/Product/Initialization/Helper/ProductLinks/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Catalog/Model/Product/Initialization/Helper/ProductLinks/Interceptor.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Catalog/Model/Product/LinkFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Catalog/Model/Product/LinkFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Catalog/Model/Product/OptionFactory.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Catalog/Model/Product/Type/Interceptor.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Catalog/Model/Product/TypeFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Catalog/Model/Product/TypeFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Catalog/Model/ProductFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Catalog/Model/ProductFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Catalog/Model/ProductRepository/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Catalog/Model/ProductRepository/Interceptor.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Catalog/Model/ProductTypes/Config/Proxy.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Catalog/Model/ProductTypes/Config/Proxy.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Catalog/Model/ProductTypes/Config/Reader/Proxy.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Catalog/Model/ResourceModel/Attribute/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Catalog/Model/ResourceModel/Attribute/Interceptor.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Catalog/Model/ResourceModel/Category/CollectionFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Catalog/Model/ResourceModel/Category/CollectionFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Catalog/Model/ResourceModel/Category/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Catalog/Model/ResourceModel/Category/Interceptor.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Catalog/Model/ResourceModel/Category/Proxy.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Catalog/Model/ResourceModel/Category/Proxy.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Catalog/Model/ResourceModel/Category/TreeFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Catalog/Model/ResourceModel/Category/TreeFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Catalog/Model/ResourceModel/Eav/Attribute/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Catalog/Model/ResourceModel/Eav/Attribute/Interceptor.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Catalog/Model/ResourceModel/Product/Attribute/CollectionFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Catalog/Model/ResourceModel/Product/Attribute/CollectionFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Catalog/Model/ResourceModel/Product/Collection/ProductLimitationFactory.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Catalog/Model/ResourceModel/Product/Indexer/Eav/DecimalFactory.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Catalog/Model/ResourceModel/Product/Indexer/Eav/SourceFactory.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Catalog/Model/ResourceModel/Product/Indexer/Price/IndexTableStructureFactory.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Catalog/Model/ResourceModel/Product/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Catalog/Model/ResourceModel/Product/Interceptor.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Catalog/Model/Session/Proxy.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Catalog/Model/Session/Proxy.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Catalog/Model/View/Asset/ImageFactory.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/CatalogInventory/Model/Indexer/ProductPriceIndexFilter/Interceptor.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/CatalogInventory/Model/ResourceModel/Stock/Item/Interceptor.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/CatalogRule/Model/ResourceModel/Rule/CollectionFactory.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/CatalogSearch/Model/Indexer/Fulltext/Action/DataProvider/Interceptor.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/CatalogSearch/Model/Indexer/Fulltext/Action/FullFactory.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/CatalogSearch/Model/Indexer/Fulltext/Action/IndexIteratorFactory.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/CatalogSearch/Model/Indexer/Scope/StateFactory.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/CatalogSearch/Model/ResourceModel/Fulltext/Collection/Interceptor.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Config/App/Config/Source/DumpConfigSourceAggregated/Interceptor.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Config/App/Config/Type/System/Reader/Proxy.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Config/App/Config/Type/System/Reader/Proxy.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Config/Console/Command/ConfigSet/ProcessorFacadeFactory.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Config/Model/Config/Backend/Encrypted/Interceptor.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Config/Model/Config/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Config/Model/Config/Interceptor.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Config/Model/Config/Structure/Converter/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Config/Model/Config/Structure/Converter/Interceptor.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Config/Model/Config/Structure/Element/Field/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Config/Model/Config/Structure/Element/Field/Interceptor.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Config/Model/Config/Structure/Element/Group/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Config/Model/Config/Structure/Element/Group/Interceptor.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Config/Model/Config/Structure/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Config/Model/Config/Structure/Interceptor.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Config/Model/Config/StructureFactory.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Config/Model/ResourceModel/Config/Data/Collection/Proxy.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Config/Model/ResourceModel/Config/Data/Collection/Proxy.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Config/Model/ResourceModel/Config/Data/CollectionFactory.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Customer/Api/Data/AddressInterfaceFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Customer/Api/Data/AddressInterfaceFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Customer/Api/Data/AddressSearchResultsInterfaceFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Customer/Api/Data/AddressSearchResultsInterfaceFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Customer/Api/Data/AttributeMetadataInterfaceFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Customer/Api/Data/AttributeMetadataInterfaceFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Customer/Api/Data/CustomerInterfaceFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Customer/Api/Data/CustomerInterfaceFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Customer/Api/Data/CustomerSearchResultsInterfaceFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Customer/Api/Data/CustomerSearchResultsInterfaceFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Customer/Api/Data/GroupInterfaceFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Customer/Api/Data/GroupInterfaceFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Customer/Api/Data/GroupSearchResultsInterfaceFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Customer/Api/Data/GroupSearchResultsInterfaceFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Customer/Api/Data/OptionInterfaceFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Customer/Api/Data/OptionInterfaceFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Customer/Api/Data/RegionInterfaceFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Customer/Api/Data/RegionInterfaceFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Customer/Api/Data/ValidationResultsInterfaceFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Customer/Api/Data/ValidationResultsInterfaceFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Customer/Api/Data/ValidationRuleInterfaceFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Customer/Api/Data/ValidationRuleInterfaceFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Customer/Api/GroupManagementInterface/Proxy.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Customer/Api/GroupManagementInterface/Proxy.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Customer/Model/AccountManagement/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Customer/Model/AccountManagement/Interceptor.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Customer/Model/AddressFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Customer/Model/AddressFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Customer/Model/Backend/Customer/Interceptor.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Customer/Model/Config/Share/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Customer/Model/Config/Share/Interceptor.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Customer/Model/Config/Share/Proxy.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Customer/Model/Config/Share/Proxy.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Customer/Model/Data/CustomerSecureFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Customer/Model/Data/CustomerSecureFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Customer/Model/Delegation/Data/NewOperationFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Customer/Model/Delegation/Data/NewOperationFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Customer/Model/GroupFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Customer/Model/GroupFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Customer/Model/ResourceModel/Address/CollectionFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Customer/Model/ResourceModel/Address/CollectionFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Customer/Model/ResourceModel/Customer/CollectionFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Customer/Model/ResourceModel/Customer/CollectionFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Customer/Model/ResourceModel/Customer/Proxy.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Customer/Model/ResourceModel/Customer/Proxy.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Customer/Model/ResourceModel/CustomerRepository/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Customer/Model/ResourceModel/CustomerRepository/Interceptor.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Customer/Model/ResourceModel/Form/Attribute/CollectionFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Customer/Model/ResourceModel/Form/Attribute/CollectionFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Customer/Model/ResourceModel/Group/CollectionFactory.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Customer/Model/ResourceModel/GroupRepository/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Customer/Model/ResourceModel/GroupRepository/Interceptor.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Customer/Model/ResourceModel/Visitor/CollectionFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Customer/Model/ResourceModel/Visitor/CollectionFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Customer/Model/Session/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Customer/Model/Session/Interceptor.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Customer/Model/Session/Proxy.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Customer/Model/Session/Proxy.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Customer/Model/Url/Proxy.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Customer/Model/Url/Proxy.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Directory/Model/CountryFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Directory/Model/CountryFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Directory/Model/CurrencyFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Directory/Model/CurrencyFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Directory/Model/ResourceModel/CountryFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Directory/Model/ResourceModel/CountryFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Directory/Model/ResourceModel/Region/CollectionFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Directory/Model/ResourceModel/Region/CollectionFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Eav/Api/Data/AttributeSearchResultsInterfaceFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Eav/Api/Data/AttributeSearchResultsInterfaceFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Eav/Model/Adminhtml/System/Config/Source/Inputtype/ValidatorFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Eav/Model/Adminhtml/System/Config/Source/Inputtype/ValidatorFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Eav/Model/Entity/AttributeFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Eav/Model/Entity/AttributeFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Eav/Model/Entity/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Eav/Model/Entity/Interceptor.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Eav/Model/Entity/TypeFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Eav/Model/Entity/TypeFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Eav/Model/ResourceModel/Entity/Attribute/CollectionFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Eav/Model/ResourceModel/Entity/Attribute/CollectionFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Eav/Model/ResourceModel/Entity/Attribute/Group/CollectionFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Eav/Model/ResourceModel/Entity/Attribute/Group/CollectionFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Eav/Model/ResourceModel/Entity/Attribute/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Eav/Model/ResourceModel/Entity/Attribute/Interceptor.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Eav/Model/ResourceModel/Entity/Attribute/Set/CollectionFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Eav/Model/ResourceModel/Entity/Attribute/Set/CollectionFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Eav/Model/ResourceModel/Entity/Type/CollectionFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Eav/Model/ResourceModel/Entity/Type/CollectionFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Framework/Acl/Builder/Proxy.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Framework/Acl/Builder/Proxy.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Framework/Api/Data/ImageContentInterfaceFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Framework/Api/Data/ImageContentInterfaceFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Framework/App/Cache/Type/Config/Proxy.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Framework/App/Cache/Type/Config/Proxy.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Framework/App/Config/ConfigSourceAggregated/Proxy.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Framework/App/Config/ConfigSourceAggregated/Proxy.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Framework/App/Config/FileResolver/Proxy.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Framework/App/Config/FileResolver/Proxy.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Framework/App/Config/Initial/Converter/Interceptor.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Framework/App/Config/Initial/Reader/Proxy.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Framework/App/Config/PostProcessorComposite/Proxy.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Framework/App/Config/PostProcessorComposite/Proxy.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Framework/App/Config/Value/Interceptor.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Framework/App/MaintenanceMode/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Framework/App/MaintenanceMode/Interceptor.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Framework/App/Request/Http/Proxy.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Framework/App/Request/Http/Proxy.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Framework/App/ResourceConnection/Config/Proxy.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Framework/App/ResourceConnection/Config/Proxy.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Framework/App/ResourceConnection/Config/Reader/Proxy.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Framework/App/ResourceConnection/Config/Reader/Proxy.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Framework/App/ResourceConnection/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Framework/App/ResourceConnection/Interceptor.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Framework/App/ResourceConnection/Proxy.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Framework/App/ResourceConnection/Proxy.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Framework/App/Response/Http/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Framework/App/Response/Http/Interceptor.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Framework/App/Route/Config/Reader/Proxy.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Framework/App/Route/Config/Reader/Proxy.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Framework/App/State/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Framework/App/State/Interceptor.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Framework/Authorization/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Framework/Authorization/Interceptor.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Framework/Cache/Config/Reader/Proxy.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Framework/Cache/Config/Reader/Proxy.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Framework/Config/Composer/PackageFactory.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Framework/Config/ThemeFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Framework/Config/ThemeFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Framework/DB/Logger/FileFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Framework/DB/Logger/FileFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Framework/DB/Logger/QuietFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Framework/DB/Logger/QuietFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Framework/DB/Query/BatchRangeIteratorFactory.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Framework/DB/Sql/ColumnValueExpressionFactory.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Framework/DB/TransactionFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Framework/DB/TransactionFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Framework/Data/CollectionFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Framework/Data/CollectionFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Framework/Data/Form/FormKey/Proxy.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Framework/Data/Form/FormKey/Proxy.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Framework/DataObjectFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Framework/DataObjectFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Framework/Event/Config/Reader/Proxy.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Framework/Event/Config/Reader/Proxy.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Framework/Event/Manager/Proxy.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Framework/Event/Manager/Proxy.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Framework/HTTP/Client/CurlFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Framework/HTTP/Client/CurlFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Framework/Indexer/MultiDimensionProviderFactory.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Framework/Mail/Message/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Framework/Mail/Message/Interceptor.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Framework/Mail/MessageInterfaceFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Framework/Mail/MessageInterfaceFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Framework/Mail/Template/TransportBuilder/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Framework/Mail/Template/TransportBuilder/Interceptor.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Framework/MessageQueue/Config/Proxy.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Framework/Model/ActionValidator/RemoveAction/Proxy.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Framework/Model/ActionValidator/RemoveAction/Proxy.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Framework/ObjectManager/Config/Reader/Dom/Proxy.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Framework/ObjectManager/Config/Reader/Dom/Proxy.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Framework/Search/Request/Config/FilesystemReader/Interceptor.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Framework/Search/Request/DimensionFactory.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Framework/Session/Config/ConfigInterface/Proxy.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Framework/Session/Config/ConfigInterface/Proxy.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Framework/Session/Generic/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Framework/Session/Generic/Interceptor.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Framework/Session/Generic/Proxy.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Framework/Session/Generic/Proxy.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Framework/Session/SessionManagerInterface/Proxy.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Framework/Session/SessionManagerInterface/Proxy.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Framework/Session/SidResolver/Proxy.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Framework/Session/SidResolver/Proxy.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Framework/Translate/Inline/ConfigInterface/Proxy.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Framework/Translate/Inline/ConfigInterface/Proxy.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Framework/Translate/Inline/ParserInterface/Proxy.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Framework/Translate/Inline/ParserInterface/Proxy.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Framework/Translate/ResourceInterface/Proxy.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Framework/Translate/ResourceInterface/Proxy.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Framework/Url/RouteParamsResolver/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Framework/Url/RouteParamsResolver/Interceptor.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Framework/Url/SecurityInfo/Proxy.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Framework/Url/SecurityInfo/Proxy.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Framework/View/Asset/Minification/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Framework/View/Asset/Minification/Interceptor.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Framework/View/LayoutInterface/Proxy.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Framework/View/LayoutInterface/Proxy.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Framework/View/Result/Page/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Framework/View/Result/Page/Interceptor.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Indexer/Model/Config/Data/Proxy.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Indexer/Model/Config/Data/Proxy.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Indexer/Model/Indexer/CollectionFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Indexer/Model/Indexer/CollectionFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Indexer/Model/Indexer/StateFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Indexer/Model/Indexer/StateFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Indexer/Model/Mview/View/State/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Indexer/Model/Mview/View/State/Interceptor.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/InventoryIndexer/Indexer/SourceItem/SkuListInStockFactory.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/InventoryIndexer/Indexer/SourceItem/SourceItemIndexer/Interceptor.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/InventoryIndexer/Indexer/Stock/StockIndexer/Interceptor.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/MediaStorage/Model/File/Storage/DatabaseFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/MediaStorage/Model/File/Storage/DatabaseFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/MediaStorage/Model/File/Storage/File/Proxy.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/MediaStorage/Model/File/Storage/File/Proxy.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/MessageQueue/Console/ConsumerListCommand/Proxy.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/MessageQueue/Console/StartConsumerCommand/Proxy.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/NewRelicReporting/Model/Apm/DeploymentsFactory.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/PageCache/Model/Varnish/VclGeneratorFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/PageCache/Model/Varnish/VclGeneratorFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/PageCache/Model/VclGeneratorInterfaceFactory.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Payment/Model/Method/Adapter/Interceptor.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Sales/Api/Data/OrderPaymentExtension.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Sales/Api/Data/OrderPaymentExtensionInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Sales/Api/Data/OrderPaymentExtensionInterfaceFactory.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/SalesSequence/Model/MetaFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/SalesSequence/Model/MetaFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/SalesSequence/Model/ProfileFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/SalesSequence/Model/ProfileFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/SalesSequence/Model/SequenceFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/SalesSequence/Model/SequenceFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Store/Api/Data/GroupExtensionInterface.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Store/Api/Data/GroupExtensionInterface.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Store/Api/Data/StoreExtensionInterface.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Store/Api/Data/StoreExtensionInterface.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Store/Api/Data/WebsiteExtensionInterface.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Store/Api/Data/WebsiteExtensionInterface.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Store/Model/Group/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Store/Model/Group/Interceptor.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Store/Model/GroupFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Store/Model/GroupFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Store/Model/ResourceModel/Group/CollectionFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Store/Model/ResourceModel/Group/CollectionFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Store/Model/ResourceModel/Group/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Store/Model/ResourceModel/Group/Interceptor.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Store/Model/ResourceModel/Store/CollectionFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Store/Model/ResourceModel/Store/CollectionFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Store/Model/ResourceModel/Store/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Store/Model/ResourceModel/Store/Interceptor.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Store/Model/ResourceModel/Website/CollectionFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Store/Model/ResourceModel/Website/CollectionFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Store/Model/ResourceModel/Website/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Store/Model/ResourceModel/Website/Interceptor.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Store/Model/Store/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Store/Model/Store/Interceptor.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Store/Model/StoreCookieManager/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Store/Model/StoreCookieManager/Interceptor.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Store/Model/StoreFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Store/Model/StoreFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Store/Model/StoreManagerInterface/Proxy.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Store/Model/StoreManagerInterface/Proxy.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Store/Model/Website/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Store/Model/Website/Interceptor.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Store/Model/WebsiteFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Store/Model/WebsiteFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Tax/Api/Data/QuoteDetailsInterfaceFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Tax/Api/Data/QuoteDetailsInterfaceFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Tax/Api/Data/QuoteDetailsItemInterfaceFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Tax/Api/Data/QuoteDetailsItemInterfaceFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Tax/Api/Data/TaxClassKeyInterfaceFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Tax/Api/Data/TaxClassKeyInterfaceFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Tax/Api/Data/TaxClassSearchResultsInterfaceFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Tax/Api/Data/TaxClassSearchResultsInterfaceFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Tax/Api/Data/TaxDetailsInterfaceFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Tax/Api/Data/TaxDetailsInterfaceFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Tax/Api/Data/TaxDetailsItemInterfaceFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Tax/Api/Data/TaxDetailsItemInterfaceFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Tax/Helper/Data/Proxy.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Tax/Helper/Data/Proxy.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Tax/Model/ClassModelFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Tax/Model/ClassModelFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Tax/Model/ResourceModel/TaxClass/CollectionFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Tax/Model/ResourceModel/TaxClass/CollectionFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Tax/Model/TaxCalculation/Interceptor.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Tax/Model/TaxCalculation/Interceptor.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Theme/Model/Config/Processor/DesignTheme/Proxy.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Theme/Model/Config/Processor/DesignTheme/Proxy.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Theme/Model/ResourceModel/Theme/Collection/Proxy.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Theme/Model/ResourceModel/Theme/CollectionFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Theme/Model/ResourceModel/Theme/CollectionFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Theme/Model/ResourceModel/ThemeFactory.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Theme/Model/ThemeFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Theme/Model/ThemeFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Theme/Model/View/Design/Proxy.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Theme/Model/View/Design/Proxy.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Translation/Model/ResourceModel/TranslateFactory.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Translation/Model/ResourceModel/TranslateFactory.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Translation/Model/Source/InitialTranslationSource/Proxy.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/generated/code/Magento/Translation/Model/Source/InitialTranslationSource/Proxy.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/User/Model/UserFactory.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Magento/Vault/Model/Method/Vault/Interceptor.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Symfony/Component/Console/Helper/TableFactory.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Symfony/Component/Console/Input/ArrayInputFactory.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/generated/code/Symfony/Component/Console/Question/QuestionFactory.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/var/cache/mage--0/mage---14f_DB_PDO_MYSQL_DDL_CATALOG_CATEGORY_ENTITY_3" beforeDir="false" afterPath="$PROJECT_DIR$/src/var/cache/mage--0/mage---14f_DB_PDO_MYSQL_DDL_CATALOG_CATEGORY_ENTITY_3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/var/cache/mage--0/mage---14f_DB_PDO_MYSQL_DDL_CATALOG_PRODUCT_ENTITY_3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/var/cache/mage--0/mage---14f_DICONFIGDF6305F377DF275F368155D994E943BD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/var/cache/mage--0/mage---14f_GLOBAL_PRIMARY_PLUGIN_LIST" beforeDir="false" afterPath="$PROJECT_DIR$/src/var/cache/mage--0/mage---14f_GLOBAL_PRIMARY_PLUGIN_LIST" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/var/cache/mage--1/mage---14f_EXTENSION_ATTRIBUTES_CONFIG" beforeDir="false" afterPath="$PROJECT_DIR$/src/var/cache/mage--1/mage---14f_EXTENSION_ATTRIBUTES_CONFIG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/var/cache/mage--1/mage---14f_INTERCEPTION" beforeDir="false" afterPath="$PROJECT_DIR$/src/var/cache/mage--1/mage---14f_INTERCEPTION" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/var/cache/mage--1/mage---14f_SYSTEM_WEBSITES_BASE" beforeDir="false" afterPath="$PROJECT_DIR$/src/var/cache/mage--1/mage---14f_SYSTEM_WEBSITES_BASE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/var/cache/mage--2/mage---14f_DB_PDO_MYSQL_DDL_INDEXER_STATE_1" beforeDir="false" afterPath="$PROJECT_DIR$/src/var/cache/mage--2/mage---14f_DB_PDO_MYSQL_DDL_INDEXER_STATE_1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/var/cache/mage--2/mage---14f_SYSTEM_STORES_ADMIN" beforeDir="false" afterPath="$PROJECT_DIR$/src/var/cache/mage--2/mage---14f_SYSTEM_STORES_ADMIN" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/var/cache/mage--3/mage---14f_MVIEW_CONFIG" beforeDir="false" afterPath="$PROJECT_DIR$/src/var/cache/mage--3/mage---14f_MVIEW_CONFIG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/var/cache/mage--3/mage---14f_REQUEST_DECLARATION" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/var/cache/mage--3/mage---14f_RESOLVED_STORES_D1BEFA03C79CA0B84ECC488DEA96BC68" beforeDir="false" afterPath="$PROJECT_DIR$/src/var/cache/mage--3/mage---14f_RESOLVED_STORES_D1BEFA03C79CA0B84ECC488DEA96BC68" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/var/cache/mage--3/mage---14f_SYSTEM_STORES_DEFAULT" beforeDir="false" afterPath="$PROJECT_DIR$/src/var/cache/mage--3/mage---14f_SYSTEM_STORES_DEFAULT" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/var/cache/mage--4/mage---14f_ADMINHTML__EVENT_CONFIG_CACHE" beforeDir="false" afterPath="$PROJECT_DIR$/src/var/cache/mage--4/mage---14f_ADMINHTML__EVENT_CONFIG_CACHE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/var/cache/mage--4/mage---14f_DB_PDO_MYSQL_DDL_CATALOG_CATEGORY_PRODUCT_INDEX_STORE1_TMP_1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/var/cache/mage--4/mage---14f_GLOBAL__DICONFIG" beforeDir="false" afterPath="$PROJECT_DIR$/src/var/cache/mage--4/mage---14f_GLOBAL__DICONFIG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/var/cache/mage--4/mage---14f_SYSTEM_STORES_1" beforeDir="false" afterPath="$PROJECT_DIR$/src/var/cache/mage--4/mage---14f_SYSTEM_STORES_1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/var/cache/mage--5/mage---14f_EAV_ENTITY_TYPES" beforeDir="false" afterPath="$PROJECT_DIR$/src/var/cache/mage--5/mage---14f_EAV_ENTITY_TYPES" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/var/cache/mage--5/mage---14f_GLOBAL_PRIMARY_ADMINHTML_PLUGIN_LIST" beforeDir="false" afterPath="$PROJECT_DIR$/src/var/cache/mage--5/mage---14f_GLOBAL_PRIMARY_ADMINHTML_PLUGIN_LIST" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/var/cache/mage--5/mage---14f_SYSTEM_WEBSITES_1" beforeDir="false" afterPath="$PROJECT_DIR$/src/var/cache/mage--5/mage---14f_SYSTEM_WEBSITES_1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/var/cache/mage--6/mage---14f_CRON_GROUPS_CONFIG_CACHE" beforeDir="false" afterPath="$PROJECT_DIR$/src/var/cache/mage--6/mage---14f_CRON_GROUPS_CONFIG_CACHE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/var/cache/mage--6/mage---14f_INITIAL_CONFIG" beforeDir="false" afterPath="$PROJECT_DIR$/src/var/cache/mage--6/mage---14f_INITIAL_CONFIG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/var/cache/mage--7/mage---14f_GLOBAL__EVENT_CONFIG_CACHE" beforeDir="false" afterPath="$PROJECT_DIR$/src/var/cache/mage--7/mage---14f_GLOBAL__EVENT_CONFIG_CACHE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/var/cache/mage--7/mage---14f_SYSTEM" beforeDir="false" afterPath="$PROJECT_DIR$/src/var/cache/mage--7/mage---14f_SYSTEM" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/var/cache/mage--8/mage---14f_APP_35C0BF370AE35F8C482DC31B8A81FC2F" beforeDir="false" afterPath="$PROJECT_DIR$/src/var/cache/mage--8/mage---14f_APP_35C0BF370AE35F8C482DC31B8A81FC2F" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/var/cache/mage--8/mage---14f_SYSTEM_WEBSITES_0" beforeDir="false" afterPath="$PROJECT_DIR$/src/var/cache/mage--8/mage---14f_SYSTEM_WEBSITES_0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/var/cache/mage--a/mage---14f_ADMINHTML__RESOURCESCACHE" beforeDir="false" afterPath="$PROJECT_DIR$/src/var/cache/mage--a/mage---14f_ADMINHTML__RESOURCESCACHE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/var/cache/mage--a/mage---14f_SYSTEM_DEFAULT" beforeDir="false" afterPath="$PROJECT_DIR$/src/var/cache/mage--a/mage---14f_SYSTEM_DEFAULT" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/var/cache/mage--b/mage---14f_PRODUCT_TYPES_CONFIG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/var/cache/mage--b/mage---14f_SYSTEM_WEBSITES_ADMIN" beforeDir="false" afterPath="$PROJECT_DIR$/src/var/cache/mage--b/mage---14f_SYSTEM_WEBSITES_ADMIN" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/var/cache/mage--c/mage---14f_APP_4169C5DEEEB8F84FEFBFAC574BE2769B" beforeDir="false" afterPath="$PROJECT_DIR$/src/var/cache/mage--c/mage---14f_APP_4169C5DEEEB8F84FEFBFAC574BE2769B" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/var/cache/mage--c/mage---14f_CORE_CACHE_INVALIDATE" beforeDir="false" afterPath="$PROJECT_DIR$/src/var/cache/mage--c/mage---14f_CORE_CACHE_INVALIDATE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/var/cache/mage--c/mage---14f_DICONFIG0825D19AB279C30A429CA4CD43A45543" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/var/cache/mage--c/mage---14f_INDEXER_CONFIG" beforeDir="false" afterPath="$PROJECT_DIR$/src/var/cache/mage--c/mage---14f_INDEXER_CONFIG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/var/cache/mage--d/mage---14f_DB_PDO_MYSQL_DDL_EAV_ATTRIBUTE_1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/var/cache/mage--d/mage---14f_SYSTEM_SCOPES" beforeDir="false" afterPath="$PROJECT_DIR$/src/var/cache/mage--d/mage---14f_SYSTEM_SCOPES" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/var/cache/mage--e/mage---14f_ADMINHTML__DICONFIG" beforeDir="false" afterPath="$PROJECT_DIR$/src/var/cache/mage--e/mage---14f_ADMINHTML__DICONFIG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/var/cache/mage--e/mage---14f_DB_PDO_MYSQL_DDL_CATALOGINVENTORY_STOCK_STATUS_TMP_1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/var/cache/mage--e/mage---14f_DB_PDO_MYSQL_DDL_CUSTOMER_ADDRESS_ENTITY_3" beforeDir="false" afterPath="$PROJECT_DIR$/src/var/cache/mage--e/mage---14f_DB_PDO_MYSQL_DDL_CUSTOMER_ADDRESS_ENTITY_3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/var/cache/mage--e/mage---14f_DB_PDO_MYSQL_DDL_CUSTOMER_ENTITY_3" beforeDir="false" afterPath="$PROJECT_DIR$/src/var/cache/mage--e/mage---14f_DB_PDO_MYSQL_DDL_CUSTOMER_ENTITY_3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/var/cache/mage--f/mage---14f_ADMINHTML__ROUTESCONFIG" beforeDir="false" afterPath="$PROJECT_DIR$/src/var/cache/mage--f/mage---14f_ADMINHTML__ROUTESCONFIG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/var/cache/mage--f/mage---14f_SYSTEM_STORES_0" beforeDir="false" afterPath="$PROJECT_DIR$/src/var/cache/mage--f/mage---14f_SYSTEM_STORES_0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/var/cache/mage-tags/mage---14f_COLLECTION_DATA" beforeDir="false" afterPath="$PROJECT_DIR$/src/var/cache/mage-tags/mage---14f_COLLECTION_DATA" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/var/cache/mage-tags/mage---14f_CONFIG" beforeDir="false" afterPath="$PROJECT_DIR$/src/var/cache/mage-tags/mage---14f_CONFIG" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/var/cache/mage-tags/mage---14f_CONFIG_SCOPES" beforeDir="false" afterPath="$PROJECT_DIR$/src/var/cache/mage-tags/mage---14f_CONFIG_SCOPES" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/var/cache/mage-tags/mage---14f_DB_DDL" beforeDir="false" afterPath="$PROJECT_DIR$/src/var/cache/mage-tags/mage---14f_DB_DDL" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/var/cache/mage-tags/mage---14f_DB_PDO_MYSQL_DDL" beforeDir="false" afterPath="$PROJECT_DIR$/src/var/cache/mage-tags/mage---14f_DB_PDO_MYSQL_DDL" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/var/cache/mage-tags/mage---14f_EAV" beforeDir="false" afterPath="$PROJECT_DIR$/src/var/cache/mage-tags/mage---14f_EAV" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/var/cache/mage-tags/mage---14f_EAV_ATTRIBUTE" beforeDir="false" afterPath="$PROJECT_DIR$/src/var/cache/mage-tags/mage---14f_EAV_ATTRIBUTE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/var/cache/mage-tags/mage---14f_MAGE" beforeDir="false" afterPath="$PROJECT_DIR$/src/var/cache/mage-tags/mage---14f_MAGE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/var/cache/mage-tags/mage---14f_STORE" beforeDir="false" afterPath="$PROJECT_DIR$/src/var/cache/mage-tags/mage---14f_STORE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/var/cache/mage-tags/mage---14f_STORE_RELATIONS" beforeDir="false" afterPath="$PROJECT_DIR$/src/var/cache/mage-tags/mage---14f_STORE_RELATIONS" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/var/log/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/src/var/log/debug.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/var/log/system.log" beforeDir="false" afterPath="$PROJECT_DIR$/src/var/log/system.log" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/src/composer.json</pharConfigPath>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="singlebanner.phtml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/app/code/Fulcrum/Banner/view/frontend/templates/singlebanner.phtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="17" lean-forward="true" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/app/code/Fulcrum/Banner/Model/Banner.php" />
+        <option value="$PROJECT_DIR$/src/app/code/Fulcrum/Banner/Model/ResourceModel/Banners.php" />
+        <option value="$PROJECT_DIR$/src/app/code/Fulcrum/Banner/Controller/Adminhtml/Banner/Index.php" />
+        <option value="$PROJECT_DIR$/src/app/code/Fulcrum/Banner/view/adminhtml/layout/banner_index_index.xml" />
+        <option value="$PROJECT_DIR$/src/app/code/Fulcrum/Banner/Block/Adminhtml/Banner/Index.php" />
+        <option value="$PROJECT_DIR$/src/app/code/Fulcrum/Banner/etc/adminhtml/routes.xml" />
+        <option value="$PROJECT_DIR$/src/app/code/Fulcrum/Banner/etc/adminhtml/menu.xml" />
+        <option value="$PROJECT_DIR$/docker/phpfpm/conf/xdebug.ini" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
+  <component name="PhpServers">
+    <servers>
+      <server host="it.yandeh" id="99d155a1-4886-4710-82cd-39f081d27bab" name="it.yandeh" use_path_mappings="true">
+        <path_mappings>
+          <mapping local-root="$PROJECT_DIR$/src" remote-root="/src/www" />
+        </path_mappings>
+      </server>
+    </servers>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-email" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-gift-message" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-catalog-import-export" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-offline-payments" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-sales-sequence" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-tax" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-catalog-rule-configurable" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-page-cache" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/zendframework1" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-ui" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-inventory-configuration-api" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-inventory-configurable-product" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-backup" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-sales-analytics" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-swatches-layered-navigation" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-config" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-new-relic-reporting" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/theme-frontend-blank" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-swagger-webapi-async" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-catalog-url-rewrite" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-downloadable" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-store" />
+      <path value="$PROJECT_DIR$/src/vendor/bacon/bacon-qr-code" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-advanced-pricing-import-export" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-wishlist" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-inventory-sales-api" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-webapi-security" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-contact" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-catalog-search" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-encryption-key" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-sales-inventory" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-bundle" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-authorizenet" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-downloadable-graph-ql" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-require-js" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-vault" />
+      <path value="$PROJECT_DIR$/src/vendor/zendframework/zend-di" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-url-rewrite" />
+      <path value="$PROJECT_DIR$/src/vendor/zendframework/zend-captcha" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-inventory-sales-frontend-ui" />
+      <path value="$PROJECT_DIR$/src/vendor/zendframework/zend-psr7bridge" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-bundle-graph-ql" />
+      <path value="$PROJECT_DIR$/src/vendor/zendframework/zend-i18n" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-grouped-product-graph-ql" />
+      <path value="$PROJECT_DIR$/src/vendor/zendframework/zend-code" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-inventory-catalog-api" />
+      <path value="$PROJECT_DIR$/src/vendor/zendframework/zend-session" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-customer-analytics" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-weee" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-instant-purchase" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-reports" />
+      <path value="$PROJECT_DIR$/src/vendor/klarna/module-core" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-customer-graph-ql" />
+      <path value="$PROJECT_DIR$/src/vendor/true/punycode" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-developer" />
+      <path value="$PROJECT_DIR$/src/vendor/klarna/module-kp" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-inventory-bundle-product" />
+      <path value="$PROJECT_DIR$/src/vendor/klarna/module-ordermanagement" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-inventory-catalog" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-webapi" />
+      <path value="$PROJECT_DIR$/src/vendor/symfony/inflector" />
+      <path value="$PROJECT_DIR$/src/vendor/zendframework/zend-json" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-cms-url-rewrite" />
+      <path value="$PROJECT_DIR$/src/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/src/vendor/zendframework/zend-config" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-fedex" />
+      <path value="$PROJECT_DIR$/src/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/src/vendor/zendframework/zend-server" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-inventory-low-quantity-notification-admin-ui" />
+      <path value="$PROJECT_DIR$/src/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/src/vendor/zendframework/zend-feed" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-inventory-reservations" />
+      <path value="$PROJECT_DIR$/src/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/src/vendor/zendframework/zend-mvc" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-payment" />
+      <path value="$PROJECT_DIR$/src/vendor/symfony/property-access" />
+      <path value="$PROJECT_DIR$/src/vendor/zendframework/zend-crypt" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-cms-url-rewrite-graph-ql" />
+      <path value="$PROJECT_DIR$/src/vendor/symfony/polyfill-php70" />
+      <path value="$PROJECT_DIR$/src/vendor/zendframework/zend-loader" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/language-fr_fr" />
+      <path value="$PROJECT_DIR$/src/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/src/vendor/zendframework/zend-form" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-wishlist-analytics" />
+      <path value="$PROJECT_DIR$/src/vendor/zendframework/zend-stdlib" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-customer" />
+      <path value="$PROJECT_DIR$/src/vendor/zendframework/zend-validator" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/framework-message-queue" />
+      <path value="$PROJECT_DIR$/src/vendor/zendframework/zend-uri" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-sales" />
+      <path value="$PROJECT_DIR$/src/vendor/zendframework/zend-filter" />
+      <path value="$PROJECT_DIR$/src/vendor/msp/recaptcha" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-message-queue" />
+      <path value="$PROJECT_DIR$/src/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/src/vendor/zendframework/zend-serializer" />
+      <path value="$PROJECT_DIR$/src/vendor/msp/twofactorauth" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-cms" />
+      <path value="$PROJECT_DIR$/src/vendor/zendframework/zend-text" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-security" />
+      <path value="$PROJECT_DIR$/src/vendor/symfony/config" />
+      <path value="$PROJECT_DIR$/src/vendor/zendframework/zend-db" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-user" />
+      <path value="$PROJECT_DIR$/src/vendor/symfony/stopwatch" />
+      <path value="$PROJECT_DIR$/src/vendor/zendframework/zend-log" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-configurable-product-sales" />
+      <path value="$PROJECT_DIR$/src/vendor/symfony/dependency-injection" />
+      <path value="$PROJECT_DIR$/src/vendor/zendframework/zend-hydrator" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-shipping" />
+      <path value="$PROJECT_DIR$/src/vendor/symfony/options-resolver" />
+      <path value="$PROJECT_DIR$/src/vendor/zendframework/zend-modulemanager" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-advanced-search" />
+      <path value="$PROJECT_DIR$/src/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/src/vendor/zendframework/zend-http" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-ups" />
+      <path value="$PROJECT_DIR$/src/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/src/vendor/zendframework/zend-math" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-directory" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-backend" />
+      <path value="$PROJECT_DIR$/src/vendor/zendframework/zend-soap" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/magento-composer-installer" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-mysql-mq" />
+      <path value="$PROJECT_DIR$/src/vendor/seld/phar-utils" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-downloadable-import-export" />
+      <path value="$PROJECT_DIR$/src/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/src/vendor/zendframework/zend-diactoros" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-inventory-source-selection" />
+      <path value="$PROJECT_DIR$/src/vendor/symfony/dom-crawler" />
+      <path value="$PROJECT_DIR$/src/vendor/zendframework/zend-servicemanager" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-review-analytics" />
+      <path value="$PROJECT_DIR$/src/vendor/symfony/contracts" />
+      <path value="$PROJECT_DIR$/src/vendor/zendframework/zend-mime" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-eav" />
+      <path value="$PROJECT_DIR$/src/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/src/vendor/zendframework/zend-eventmanager" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-newsletter" />
+      <path value="$PROJECT_DIR$/src/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/src/vendor/zendframework/zend-mail" />
+      <path value="$PROJECT_DIR$/src/vendor/allure-framework/allure-codeception" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-inventory" />
+      <path value="$PROJECT_DIR$/src/vendor/symfony/browser-kit" />
+      <path value="$PROJECT_DIR$/src/vendor/zendframework/zend-console" />
+      <path value="$PROJECT_DIR$/src/vendor/allure-framework/allure-php-api" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-catalog" />
+      <path value="$PROJECT_DIR$/src/vendor/symfony/polyfill-php56" />
+      <path value="$PROJECT_DIR$/src/vendor/zendframework/zend-inputfilter" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-quote-analytics" />
+      <path value="$PROJECT_DIR$/src/vendor/symfony/polyfill-util" />
+      <path value="$PROJECT_DIR$/src/vendor/zendframework/zend-escaper" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-catalog-inventory-graph-ql" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-swatches-graph-ql" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-tax-graph-ql" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/framework-bulk" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-inventory-configurable-product-admin-ui" />
+      <path value="$PROJECT_DIR$/src/vendor/codeception/stub" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-currency-symbol" />
+      <path value="$PROJECT_DIR$/src/vendor/flow/jsonpath" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-indexer" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-quote-graph-ql" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-admin-notification" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-swagger-webapi" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-inventory-shipping" />
+      <path value="$PROJECT_DIR$/src/vendor/consolidation/annotated-command" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-catalog-rule" />
+      <path value="$PROJECT_DIR$/src/vendor/consolidation/config" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-inventory-source-selection-api" />
+      <path value="$PROJECT_DIR$/src/vendor/consolidation/output-formatters" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-inventory-product-alert" />
+      <path value="$PROJECT_DIR$/src/vendor/consolidation/log" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/framework-amqp" />
+      <path value="$PROJECT_DIR$/src/vendor/google/recaptcha" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-widget" />
+      <path value="$PROJECT_DIR$/src/vendor/tedivm/jshrink" />
+      <path value="$PROJECT_DIR$/src/vendor/vertex/sdk" />
+      <path value="$PROJECT_DIR$/src/vendor/vertex/module-tax" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-inventory-sales" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-inventory-grouped-product-admin-ui" />
+      <path value="$PROJECT_DIR$/src/vendor/donatj/phpuseragentparser" />
+      <path value="$PROJECT_DIR$/src/vendor/elasticsearch/elasticsearch" />
+      <path value="$PROJECT_DIR$/src/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/src/vendor/colinmollenhour/credis" />
+      <path value="$PROJECT_DIR$/src/vendor/php-cs-fixer/diff" />
+      <path value="$PROJECT_DIR$/src/vendor/colinmollenhour/php-redis-session-abstract" />
+      <path value="$PROJECT_DIR$/src/vendor/colinmollenhour/cache-backend-file" />
+      <path value="$PROJECT_DIR$/src/vendor/beberlei/assert" />
+      <path value="$PROJECT_DIR$/src/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/src/vendor/epfremme/swagger-php" />
+      <path value="$PROJECT_DIR$/src/vendor/colinmollenhour/cache-backend-redis" />
+      <path value="$PROJECT_DIR$/src/vendor/amzn/amazon-pay-sdk-php" />
+      <path value="$PROJECT_DIR$/src/vendor/amzn/amazon-pay-and-login-with-amazon-core-module" />
+      <path value="$PROJECT_DIR$/src/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/src/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/src/vendor/amzn/login-with-amazon-module" />
+      <path value="$PROJECT_DIR$/src/vendor/amzn/amazon-pay-module" />
+      <path value="$PROJECT_DIR$/src/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/src/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/src/vendor/phpunit/phpunit-mock-objects" />
+      <path value="$PROJECT_DIR$/src/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/src/vendor/endroid/qr-code" />
+      <path value="$PROJECT_DIR$/src/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/src/vendor/dotmailer/dotmailer-magento2-extension" />
+      <path value="$PROJECT_DIR$/src/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/src/vendor/react/promise" />
+      <path value="$PROJECT_DIR$/src/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/src/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/src/vendor/dflydev/dot-access-data" />
+      <path value="$PROJECT_DIR$/src/vendor/lusitanian/oauth" />
+      <path value="$PROJECT_DIR$/src/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/src/vendor/phpcollection/phpcollection" />
+      <path value="$PROJECT_DIR$/src/vendor/yubico/u2flib-server" />
+      <path value="$PROJECT_DIR$/src/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/src/vendor/pelago/emogrifier" />
+      <path value="$PROJECT_DIR$/src/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/src/vendor/doctrine/collections" />
+      <path value="$PROJECT_DIR$/src/vendor/sebastian/finder-facade" />
+      <path value="$PROJECT_DIR$/src/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/src/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/src/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/src/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/src/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/src/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/src/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/src/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/src/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/src/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/src/vendor/league/container" />
+      <path value="$PROJECT_DIR$/src/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/src/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/src/vendor/temando/module-shipping-m2" />
+      <path value="$PROJECT_DIR$/src/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/src/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/src/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/src/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/src/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/src/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/src/vendor/myclabs/php-enum" />
+      <path value="$PROJECT_DIR$/src/vendor/spomky-labs/otphp" />
+      <path value="$PROJECT_DIR$/src/vendor/mustache/mustache" />
+      <path value="$PROJECT_DIR$/src/vendor/jms/parser-lib" />
+      <path value="$PROJECT_DIR$/src/vendor/friendsofphp/php-cs-fixer" />
+      <path value="$PROJECT_DIR$/src/vendor/seld/jsonlint" />
+      <path value="$PROJECT_DIR$/src/vendor/phpseclib/mcrypt_compat" />
+      <path value="$PROJECT_DIR$/src/vendor/phpseclib/phpseclib" />
+      <path value="$PROJECT_DIR$/src/vendor/jms/serializer" />
+      <path value="$PROJECT_DIR$/src/vendor/jms/metadata" />
+      <path value="$PROJECT_DIR$/src/vendor/justinrainbow/json-schema" />
+      <path value="$PROJECT_DIR$/src/vendor/zendframework/zend-view" />
+      <path value="$PROJECT_DIR$/src/vendor/pdepend/pdepend" />
+      <path value="$PROJECT_DIR$/src/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/src/vendor/tubalmartin/cssmin" />
+      <path value="$PROJECT_DIR$/src/vendor/sebastian/phpcpd" />
+      <path value="$PROJECT_DIR$/src/vendor/codeception/codeception" />
+      <path value="$PROJECT_DIR$/src/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/src/vendor/consolidation/self-update" />
+      <path value="$PROJECT_DIR$/src/vendor/grasmash/yaml-expander" />
+      <path value="$PROJECT_DIR$/src/vendor/grasmash/expander" />
+      <path value="$PROJECT_DIR$/src/vendor/consolidation/robo" />
+      <path value="$PROJECT_DIR$/src/vendor/oyejorge/less.php" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/magento2-functional-testing-framework" />
+      <path value="$PROJECT_DIR$/src/vendor/php-amqplib/php-amqplib" />
+      <path value="$PROJECT_DIR$/src/vendor/phpmd/phpmd" />
+      <path value="$PROJECT_DIR$/src/vendor/squizlabs/php_codesniffer" />
+      <path value="$PROJECT_DIR$/src/vendor/webonyx/graphql-php" />
+      <path value="$PROJECT_DIR$/src/vendor/composer" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-search" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-amqp" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-sales-rule" />
+      <path value="$PROJECT_DIR$/src/vendor/khanamiryan/qrcode-detector-decoder" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-webapi-async" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-inventory-import-export" />
+      <path value="$PROJECT_DIR$/src/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-version" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-theme" />
+      <path value="$PROJECT_DIR$/src/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-layered-navigation" />
+      <path value="$PROJECT_DIR$/src/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-import-export" />
+      <path value="$PROJECT_DIR$/src/vendor/guzzlehttp/streams" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-google-analytics" />
+      <path value="$PROJECT_DIR$/src/vendor/guzzlehttp/ringphp" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-bundle-import-export" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-sample-data" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-tax-import-export" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-usps" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/theme-frontend-luma" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-grouped-import-export" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-weee-graph-ql" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-url-rewrite-graph-ql" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-review" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-paypal" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-inventory-low-quantity-notification-api" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-captcha" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-cms-graph-ql" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-rule" />
+      <path value="$PROJECT_DIR$/src/vendor/container-interop/container-interop" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-sitemap" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-customer-import-export" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-inventory-indexer" />
+      <path value="$PROJECT_DIR$/src/vendor/christian-riesen/base32" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-inventory-sales-admin-ui" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-store-graph-ql" />
+      <path value="$PROJECT_DIR$/src/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-inventory-configurable-product-indexer" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-google-adwords" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-configurable-import-export" />
+      <path value="$PROJECT_DIR$/src/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-inventory-shipping-admin-ui" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/language-de_de" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-multishipping" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-cookie" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-swagger" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-product-video" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-dhl" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-product-alert" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-checkout" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/language-zh_hans_cn" />
+      <path value="$PROJECT_DIR$/src/vendor/behat/gherkin" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-braintree" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-analytics" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-configurable-product-graph-ql" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-swatches" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-checkout-agreements" />
+      <path value="$PROJECT_DIR$/src/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/language-nl_nl" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-configurable-product" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-tinymce-3" />
+      <path value="$PROJECT_DIR$/src/vendor/theseer/fdomdocument" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-integration" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-inventory-reservations-api" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-inventory-multi-dimensional-indexer-api" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-catalog-widget" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-rss" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-grouped-product" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-offline-shipping" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-cron" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-persistent" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/magento2-base" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-robots" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/framework" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-catalog-analytics" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-inventory-cache" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/composer" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-cache-invalidate" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-signifyd" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-inventory-low-quantity-notification" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-catalog-inventory" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-inventory-catalog-admin-ui" />
+      <path value="$PROJECT_DIR$/src/vendor/paragonie/sodium_compat" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-elasticsearch" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-authorization" />
+      <path value="$PROJECT_DIR$/src/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-inventory-catalog-search" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-deploy" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-release-notification" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-google-optimizer" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-graph-ql" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-eav-graph-ql" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-inventory-bundle-product-admin-ui" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-variable" />
+      <path value="$PROJECT_DIR$/src/vendor/braintree/braintree_php" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-send-friend" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/language-en_us" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-inventory-grouped-product" />
+      <path value="$PROJECT_DIR$/src/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-inventory-configuration" />
+      <path value="$PROJECT_DIR$/src/vendor/paragonie/constant_time_encoding" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-inventory-api" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-asynchronous-operations" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-catalog-url-rewrite-graph-ql" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-quote" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-inventory-source-deduction-api" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-inventory-grouped-product-indexer" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/theme-adminhtml-backend" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-media-storage" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-translation" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-marketplace" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-msrp" />
+      <path value="$PROJECT_DIR$/src/vendor/facebook/webdriver" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/language-es_es" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/language-pt_br" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-inventory-admin-ui" />
+      <path value="$PROJECT_DIR$/src/vendor/moontoast/math" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/module-catalog-graph-ql" />
+      <path value="$PROJECT_DIR$/src/vendor/magento/inventory-composer-installer" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="574" />
+    <option name="y" value="115" />
+    <option name="width" value="1346" />
+    <option name="height" value="760" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="fulcrum" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fulcrum" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fulcrum" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fulcrum" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fulcrum" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fulcrum" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fulcrum" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fulcrum" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fulcrum" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fulcrum" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="Fulcrum" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fulcrum" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fulcrum" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="Fulcrum" type="462c0819:PsiDirectoryNode" />
+              <item name="Banner" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fulcrum" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fulcrum" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="Fulcrum" type="462c0819:PsiDirectoryNode" />
+              <item name="Banner" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fulcrum" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fulcrum" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="Fulcrum" type="462c0819:PsiDirectoryNode" />
+              <item name="Banner" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="fulcrum" type="b2602c69:ProjectViewProjectNode" />
+              <item name="fulcrum" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="Fulcrum" type="462c0819:PsiDirectoryNode" />
+              <item name="Banner" type="462c0819:PsiDirectoryNode" />
+              <item name="view" type="462c0819:PsiDirectoryNode" />
+              <item name="frontend" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="settings.php.debug.servers" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/app/code/Fulcrum/Banner/view" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/app/code/Fulcrum/Banner/view/adminhtml/layout" />
+      <recent name="$PROJECT_DIR$/src/app/code/Fulcrum/Banner/etc/adminhtml" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9bca1371-3782-4dd3-a7bb-d477c1d051e1" name="Default" comment="" />
+      <created>1547460224673</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1547460224673</updated>
+      <workItem from="1547460228098" duration="6705000" />
+      <workItem from="1548161222526" duration="2841000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="9546000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1" y="0" width="1922" height="1053" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.2524013" />
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="bottom" id="Docker" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="bottom" id="Database Changes" order="1" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="4" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="2" />
+      <window_info active="true" anchor="bottom" id="Debug" order="8" visible="true" weight="0.399137" />
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="6" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/src/app/code/Fulcrum/Banner/Controller/Adminhtml/Banner/Index.php</url>
+          <line>30</line>
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/src/app/code/Fulcrum/Banner/view/frontend/templates/singlebanner.phtml</url>
+          <line>7</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/app/code/Fulcrum/Banner/Controller/Adminhtml/Banner/Index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/code/Fulcrum/Banner/etc/adminhtml/routes.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/code/Fulcrum/Banner/etc/adminhtml/menu.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/code/Fulcrum/Banner/Model/ResourceModel/Banners.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/code/Fulcrum/Banner/Model/Banners.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/code/Fulcrum/Banner/view/adminhtml/layout/banner_index_index.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="64" selection-start-line="5" selection-start-column="64" selection-end-line="5" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/code/Fulcrum/Banner/Block/Adminhtml/Banner/Index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="47" selection-start-line="2" selection-start-column="41" selection-end-line="2" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/code/Fulcrum/Banner/etc/adminhtml/system.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/code/Fulcrum/Banner/etc/config.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/code/Fulcrum/Banner/etc/adminhtml/routes.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/code/Fulcrum/Banner/etc/adminhtml/menu.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/code/Fulcrum/Banner/Controller/Adminhtml/Banner/Index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="32" column="27" selection-start-line="32" selection-start-column="27" selection-end-line="32" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker-compose.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="44" column="45" selection-start-line="44" selection-start-column="38" selection-end-line="44" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker/phpfpm/conf/xdebug.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/app/code/Fulcrum/Banner/view/frontend/templates/singlebanner.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="17" lean-forward="true" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
